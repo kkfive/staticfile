@@ -7,14 +7,7 @@ const day = now.getDate() > 9 ? now.getDate() : `0${now.getDate()}`;
 
 const version = `${year}.${month}.${now.getTime()}`;
 
-
-fs.readFileSync('./package.json', 'utf8', (err, data) => {
-  if (err) {
-    console.log(err);
-    throw err;
-  } else {
-    const packageJson = JSON.parse(data);
-    packageJson.version = version;
-    fs.writeFileSync('./package.json', JSON.stringify(packageJson, null, 2));
-  }
-});
+const data = fs.readFileSync('package.json', 'utf8');
+const packageJson = JSON.parse(data);
+packageJson.version = version;
+fs.writeFileSync('package.json', JSON.stringify(packageJson, null, 2));
