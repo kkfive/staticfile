@@ -1,0 +1,51 @@
+{
+    "name": "张洪Heo的鱼塘",
+    "short_name": "张洪Heo的鱼塘",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/moments/heo/1",
+    "start_url": "/moments/heo/1",
+    "icons": [
+        {
+            "src": "https://cdn1.tianli0.top/npm/kang-static/media/image/heo/36.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn1.tianli0.top/npm/kang-static/media/image/heo/48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn1.tianli0.top/npm/kang-static/media/image/heo/72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn1.tianli0.top/npm/kang-static/media/image/heo/96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn1.tianli0.top/npm/kang-static/media/image/heo/144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn1.tianli0.top/npm/kang-static/media/image/heo/192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn1.tianli0.top/npm/kang-static/media/image/heo/196.png",
+            "sizes": "196x196",
+            "type": "image/png"
+        },
+        {
+            "src": "https://cdn1.tianli0.top/npm/kang-static/media/image/heo/512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
