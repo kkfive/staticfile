@@ -4,8 +4,8 @@
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
   "display": "standalone",
-  "scope": "/moments/du/1",
-  "start_url": "/moments/du/1",
+  "scope": "https://www.antmoe.com/moments/du/1",
+  "start_url": "https://www.antmoe.com/moments/du/1",
   "icons": [
       {
           "src": "https://cdn.dusays.com/avatar.png",

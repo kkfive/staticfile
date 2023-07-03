@@ -4,8 +4,8 @@
   "theme_color": "#3b70fc",
   "background_color": "#3b70fc",
   "display": "standalone",
-  "scope": "/moments/yu/1",
-  "start_url": "/moments/yu/1",
+  "scope": "https://www.antmoe.com/moments/yu/1",
+  "start_url": "https://www.antmoe.com/moments/yu/1",
   "icons": [
       {
           "src": "https://bu.dusays.com/2023/07/02/64a17c5bd1181.png",

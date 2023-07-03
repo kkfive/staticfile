@@ -4,8 +4,8 @@
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone",
-    "scope": "/moments/forever/1",
-    "start_url": "/moments/forever/1",
+    "scope": "https://www.antmoe.com/moments/forever/1",
+    "start_url": "https://www.antmoe.com/moments/forever/1",
     "icons": [
         {
             "src": "https://bu.dusays.com/2023/06/26/64995bab0c8c7.png",
